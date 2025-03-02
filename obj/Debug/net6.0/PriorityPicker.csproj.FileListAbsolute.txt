@@ -1,0 +1,15 @@
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\bin\Debug\net6.0\PriorityPicker.exe
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\bin\Debug\net6.0\PriorityPicker.deps.json
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\bin\Debug\net6.0\PriorityPicker.runtimeconfig.json
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\bin\Debug\net6.0\PriorityPicker.dll
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\bin\Debug\net6.0\PriorityPicker.pdb
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.csproj.AssemblyReference.cache
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.AssemblyInfoInputs.cache
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.AssemblyInfo.cs
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.csproj.CoreCompileInputs.cache
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.dll
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\refint\PriorityPicker.dll
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.pdb
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\PriorityPicker.genruntimeconfig.cache
+C:\Users\yael8\OneDrive\מסמכים\AAA_PROJECTS\KLH\PriorityPicker\obj\Debug\net6.0\ref\PriorityPicker.dll
